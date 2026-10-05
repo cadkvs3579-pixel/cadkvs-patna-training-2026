@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://cadkvs3579-pixel.github.io/cadkvs-patna-training-2026/sitemap.xml
